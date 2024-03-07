@@ -2,6 +2,7 @@
 
 Mini Competition Front End Series - Portofolio Website Challenge (GDSC 2023/2024)
 
+
 ## Deskripsi Kelas
 
 <div align="center">
@@ -10,7 +11,7 @@ Mini Competition Front End Series - Portofolio Website Challenge (GDSC 2023/2024
 
 <br>
 
-Website ini berisi landing page dari sebuah tempat kursus bahasa. Website ini dapat bermanfaat dalam melakukan pemasaran suatu tempat kursus.
+Website ini berisi landing page dari sebuah tempat kursus bahasa. Website ini dapat bermanfaat dalam melakukan pemasaran suatu tempat kursus. Website ini saya buat untuk mengikuti kompetisi Front-End Series dari Google Developer Student Club.
 
 ## Color
 - https://colorhunt.co/palette/756ab6ac87c5e0aed0ffe5e5
