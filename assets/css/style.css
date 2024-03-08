@@ -114,7 +114,6 @@ nav {
 
 .content a:hover {
     color: black;
-    /* background-color: rgba(0, 0, 0, .8); */
 }
 
 .content a:last-child {
@@ -500,7 +499,6 @@ footer {
     color: #f5f5f5;
     margin: 0;
     padding-bottom: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .footer .footer-left {
