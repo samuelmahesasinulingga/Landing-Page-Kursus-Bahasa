@@ -752,14 +752,13 @@ footer {
     }
 
     .features .card .layer {
-        top: 100%;
-        transition: top 0.8s; 
-    }
+    transition: none;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -ms-transition: none;
+    -o-transition: none;
+}
 
-    .features .card:hover .layer {
-        top: 0;
-    }
-    
     .about .container {
         margin: 30px;
         border-radius: 20px; 
