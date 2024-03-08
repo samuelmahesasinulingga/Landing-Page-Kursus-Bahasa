@@ -752,12 +752,8 @@ footer {
     }
 
     .features .card .layer {
-    transition: none;
-    -webkit-transition: none;
-    -moz-transition: none;
-    -ms-transition: none;
-    -o-transition: none;
-}
+    position: static;
+    }
 
     .about .container {
         margin: 30px;
