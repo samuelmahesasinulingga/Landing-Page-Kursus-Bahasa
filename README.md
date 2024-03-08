@@ -8,8 +8,7 @@ Mini Competition Front End Series - Portofolio Website Challenge (GDSC 2023/2024
 <div align="center">
   <!-- <img src="https://user-images.githubusercontent.com/95717485/188485715-3df87399-273d-4760-8c09-f67a7c908e22.png" alt="Dicoding Google Developers"> -->
 
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.linkedin.com%2Fcompany%2Fgdsc-ueu&psig=AOvVaw18Br8zNzkzFsUbAaYUnQ2r&ust=1709954122167000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjvhdLZ44QDFQAAAAAdAAAAABAE" alt="Google Developers">
-</div>
+   ![logo](https://media.licdn.com/dms/image/C560BAQFDbt4HJHl5Zw/company-logo_200_200/0/1667885602161/gdsc_ueu_logo?e=2147483647&v=beta&t=RS-leCX54ng7cYHiAVLyQkpLfdK5-Le3hwfiZyizOSo)
 
 <br>
 
