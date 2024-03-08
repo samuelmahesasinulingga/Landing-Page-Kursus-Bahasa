@@ -751,14 +751,15 @@ footer {
         padding: 10px;
     }
 
-    /* .features .card .layer {
+    .features .card .layer {
         top: 100%;
         transition: top 0.8s; 
     }
 
     .features .card:hover .layer {
         top: 0;
-    } */
+    }
+    
     .about .container {
         margin: 30px;
         border-radius: 20px; 
